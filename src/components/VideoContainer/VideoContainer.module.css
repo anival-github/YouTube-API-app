@@ -1,0 +1,43 @@
+.album {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  display: block;
+}
+
+.container {
+  width: 100%;
+  padding-right: .75rem;
+  padding-left: .75rem;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -1rem;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  flex-direction: row;
+}
+
+@media screen and (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media screen and (min-width: 786px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container {
+    max-width: 854px;
+  }
+}
+
+
