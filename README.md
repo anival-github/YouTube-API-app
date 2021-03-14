@@ -1,5 +1,5 @@
 # Getting embed videos with YouTube API + TypeScript + ReactJS + Redux
-There are following features implemented:
+### There are following features implemented:
 - working with searching YouTube API to get data about videos mathcing a key phrase entered by user;
 - working with video YouTube API to get additional data about specific video by it's id;
 - parsing a link entered by user into an embed link (by RegExp) to insert it into the page;
