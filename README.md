@@ -16,4 +16,4 @@ There are following features implemented:
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![STYLED COMPONENTS](https://img.shields.io/badge/-STYLED&#032;COMPONENTS-090909?style=for-the-badge&logo=styled-components)
-![RegExp](https://img.shields.io/badge/-REGULAR&#032;EXPRESSIONS-090909?style=for-the-badge&logo=RegExp)
+![RegExp](https://img.shields.io/badge/-REGEXP-090909?style=for-the-badge&logo=regular-expressions)
