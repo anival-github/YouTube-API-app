@@ -10,7 +10,6 @@ There are following features implemented:
 2) install dependencies by 'npm install' or 'yarn'
 3) run the upp by running 'npm run start' or 'yarn start' in console
 
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TypeScript)
