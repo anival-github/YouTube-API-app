@@ -7,8 +7,8 @@
 
 ### To check how it works on your local computer, go through the following steps:
 1) clone the repo to your local computer
-2) install dependencies by 'npm install' or 'yarn'
-3) run the upp by running 'npm run start' or 'yarn start' in console
+2) install the dependencies by `npm install` or `yarn`
+3) run the upp by running `npm run start` or `yarn start` in your terminal (console)
 
 ![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux)
